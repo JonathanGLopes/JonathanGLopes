@@ -12,7 +12,7 @@
    <img align="center" alt="Jonathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Jonathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Jonathan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Jonathan-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/694618905838092319/923368473567047710/picrew.png">
+   <img align="right" alt="Jonathan-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/266762445681459210/924564787894054942/one-piece-zoro-wano-postcover.jpg">
 </div>
   
   ##
