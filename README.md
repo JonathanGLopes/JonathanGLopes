@@ -1,4 +1,4 @@
-### Olá!! Seja bem vindo, Sou o Jonathan Lopes! ✌
+### Olá!! Seja bem vindo!! ✌
 
 ##
 <div align="center">
