@@ -1,5 +1,5 @@
 ### Olá!! Seja bem vindo!! ✌
-  Me chamo Jonathan, tenho 26 anos e atuo como dev front end. Estou sempre empolgado para aprender coisas novas para me aprimorar tanto como desenvolvedor quanto como pessoa.<br>
+  Me chamo Jonathan, tenho 26 anos e atuo como dev front end. Sempre empolgado para aprender coisas novas para me aprimorar tanto como desenvolvedor quanto como pessoa.<br>
   Você pode entrar em contato comigo através das minhas redes sociais linkadas abaixo.
    
   <div>
