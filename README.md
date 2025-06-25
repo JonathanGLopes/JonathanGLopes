@@ -2,13 +2,7 @@
   Hoje como desenvolvedor web atualmente focado no front end, me animo cada vez mais com tudo que a tecnologia nos permite fazer. Além de que há sempre coisas novas para      aprender, então essa constante evolução é algo muito bom. Com isso, podemos ajudar cada vez mais a todos terem uma melhor experiência na internet.<br><br>
   Se quiser bater um papo, você pode entrar em contato comigo através das minhas redes sociais linkadas abaixo.
    
-   
-   
-
-## 📈 Estatísticas 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JonathanGLopes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
- 
- 
+  
  
  ## 📧 Redes 
  <div>
